@@ -1,7 +1,7 @@
 public class Principal {
     public static void main(String[] args) {
         // Instância do funcionário assalariado e exibição de seu bônus
-        Funcionario funcionarioAssalariado = new FuncionarioAssalariado(60000);
+        Funcionario funcionarioAssalariado = new FuncionarioAssalariado(5000);
         System.out.println("Bônus do Funcionário Assalariado: R$ " + funcionarioAssalariado.calcularBonus());
 
         // Instância do funcionário horista e exibição de seu bônus
