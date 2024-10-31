@@ -12,7 +12,7 @@ jdk - 17.0.11_windows Eclipse IDE for Java Developers - 2024 -12
 
 Dar exemplos 🔧 1. Instalar o download do JDK 17 2. Instalar o Elipse IDE for Java Developers 3. Abrir o Eclipse 4. Ir até window -> Preferences -> Java -> Installed JREs 5. Adicionar JDK 17a lista de ambientes JRE
 
-Explicação de como deve ser utilizado o projeto 🛠️ EXPLICACAO
+Explicação de como deve ser utilizado o projeto 🛠️ Foram utilizadas as seguintes classes para a execução desse código: Funcionario, FuncionarioAssalariado, FuncionarioHORISTA e uma Classe Principal. Este código mostra uma estrutura para calcular o bônus, adaptável a diferentes tipos de contratos de trabalho. Podendo ser utilizado como base em sistemas de gerenciamento de RH, onde as regras de bônus variam conforme a categoria dos funcionários. 
 
 
 
